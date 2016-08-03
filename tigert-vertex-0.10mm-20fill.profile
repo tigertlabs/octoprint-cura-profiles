@@ -150,7 +150,7 @@ outer_shell_speed: 0.0
 overlap_dual: 0.15
 platform_adhesion: none
 print_bed_temperature: 70
-print_speed: 50
+print_speed: 40
 print_temperature:
 - 195
 - false
