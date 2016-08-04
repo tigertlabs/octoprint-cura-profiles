@@ -1,7 +1,7 @@
 _description: Imported from tigert-vertex-works.ini on 2016-07-13 14:17
 _display_name: Vertex-0.10mm-20fill
 bottom_layer_speed: 20
-bottom_thickness: 0.15
+bottom_thickness: 0.25
 brim_line_count: 12
 cool_head_lift: true
 cool_min_feedrate: 10
