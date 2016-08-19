@@ -176,7 +176,7 @@ skirt_gap: 3.0
 skirt_line_count: true
 skirt_minimal_length: 300.0
 solid_bottom: true
-solid_layer_thickness: 0.5
+solid_layer_thickness: 0.75
 solid_top: true
 spiralize: false
 start_gcode:
@@ -421,6 +421,6 @@ support_type: lines
 support_xy_distance: 0.7
 support_z_distance: 0.15
 travel_speed: 80
-wall_thickness: 0.7
+wall_thickness: 1.05
 wipe_tower: false
 wipe_tower_volume: 15
