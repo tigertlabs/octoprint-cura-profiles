@@ -124,7 +124,7 @@ end_gcode:
 
   '
 fan_enabled: true
-fan_full_height: 0.5
+fan_full_height: 3.5
 fan_speed: 100
 fan_speed_max: 100
 filament_diameter:
@@ -150,7 +150,7 @@ outer_shell_speed: 0.0
 overlap_dual: 0.15
 platform_adhesion: none
 print_bed_temperature: 70
-print_speed: 40
+print_speed: 80
 print_temperature:
 - 195
 - false
@@ -420,7 +420,7 @@ support_fill_rate: 15
 support_type: lines
 support_xy_distance: 0.7
 support_z_distance: 0.15
-travel_speed: 150.0
+travel_speed: 80
 wall_thickness: 0.7
 wipe_tower: false
 wipe_tower_volume: 15
