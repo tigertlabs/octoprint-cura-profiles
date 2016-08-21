@@ -152,7 +152,7 @@ platform_adhesion: none
 print_bed_temperature: 70
 print_speed: 25
 print_temperature:
-- 192
+- 195
 - false
 - false
 - false
@@ -420,7 +420,7 @@ support_fill_rate: 22
 support_type: lines
 support_xy_distance: 0.7
 support_z_distance: 0.15
-travel_speed: 30
+travel_speed: 60
 wall_thickness: 1.05
 wipe_tower: false
 wipe_tower_volume: 15
