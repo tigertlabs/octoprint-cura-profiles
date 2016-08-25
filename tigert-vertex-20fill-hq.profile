@@ -416,7 +416,7 @@ start_gcode:
 support: everywhere
 support_angle: 60
 support_dual_extrusion: first
-support_fill_rate: 22
+support_fill_rate: 30
 support_type: lines
 support_xy_distance: 0.7
 support_z_distance: 0.15
