@@ -5,7 +5,7 @@ bottom_thickness: 0.25
 brim_line_count: 12
 cool_head_lift: true
 cool_min_feedrate: 10
-cool_min_layer_time: 4
+cool_min_layer_time: 10
 end_gcode:
 - ';End GCode
 
@@ -176,7 +176,7 @@ skirt_gap: 3.0
 skirt_line_count: true
 skirt_minimal_length: 300.0
 solid_bottom: true
-solid_layer_thickness: 0.75
+solid_layer_thickness: 0.50
 solid_top: true
 spiralize: false
 start_gcode:
@@ -416,11 +416,11 @@ start_gcode:
 support: everywhere
 support_angle: 60
 support_dual_extrusion: first
-support_fill_rate: 30
+support_fill_rate: 20
 support_type: lines
 support_xy_distance: 0.7
 support_z_distance: 0.15
 travel_speed: 80
-wall_thickness: 1.05
+wall_thickness: 0.70
 wipe_tower: false
 wipe_tower_volume: 15
