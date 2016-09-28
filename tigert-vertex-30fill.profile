@@ -135,7 +135,7 @@ filament_diameter:
 filament_flow: 75
 fill_density: 30
 fill_overlap: 15
-first_layer_width_factor: 100
+first_layer_width_factor: 200
 fix_horrible_extensive_stitching: false
 fix_horrible_union_all_type_a: true
 fix_horrible_union_all_type_b: false
@@ -176,7 +176,7 @@ skirt_gap: 3.0
 skirt_line_count: true
 skirt_minimal_length: 300.0
 solid_bottom: true
-solid_layer_thickness: 0.50
+solid_layer_thickness: 0.75
 solid_top: true
 spiralize: false
 start_gcode:
@@ -416,11 +416,11 @@ start_gcode:
 support: everywhere
 support_angle: 60
 support_dual_extrusion: first
-support_fill_rate: 20
+support_fill_rate: 15
 support_type: lines
 support_xy_distance: 0.7
 support_z_distance: 0.15
 travel_speed: 80
-wall_thickness: 0.70
+wall_thickness: 1.050
 wipe_tower: false
 wipe_tower_volume: 15
