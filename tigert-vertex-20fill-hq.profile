@@ -132,7 +132,7 @@ filament_diameter:
 - 1.75
 - false
 - false
-filament_flow: 75
+filament_flow: 85
 fill_density: 20
 fill_overlap: 25
 first_layer_width_factor: 75
@@ -146,7 +146,7 @@ inner_shell_speed: 0.0
 layer_height: 0.25
 object_sink: 0.0
 ooze_shield: false
-outer_shell_speed: 0.0
+outer_shell_speed: 20
 overlap_dual: 0.15
 platform_adhesion: none
 print_bed_temperature: 70
@@ -172,7 +172,7 @@ retraction_hop: 0.075
 retraction_min_travel: 1.5
 retraction_minimal_extrusion: 0.02
 retraction_speed: 40.0
-skirt_gap: 3.0
+skirt_gap: 12.0
 skirt_line_count: true
 skirt_minimal_length: 300.0
 solid_bottom: true
